@@ -11,6 +11,12 @@ class Departamento():
     def intro_empleado(self,Emp):
         self.lEmpleados.append(Emp)
 
+    def get_nombre_dpto(self):
+        return self.nomDpt
+
+    def get_salario_total_mensual(self):
+        return self.get_salario_total()/12
+
     def get_salario_total(self):
         total=0
         for emp in self.lEmpleados:

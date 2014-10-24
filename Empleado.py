@@ -21,7 +21,19 @@ class Empleado():
     def get_nombre_apellidos(self):
         return self.nom + " " + self.ape
 
+    def get_edad(self):
+        return self.eda
 
-emp1 = Empleado("david","silva","49028333s","c/falsa",24,"a@a.com",2000)
-emp2 = Empleado("antonio","silva","49028332s","c/falsa",26,"a@a.com",2500)
-emp3 = Empleado("pedro","silva","49028331s","c/falsa",28,"a@a.com",3000)
+    def get_email(self):
+        return self.email
+
+    def get_direccion(self):
+        return self.dir
+
+    def get_salario_mensual(self):
+        return self.sal/12
+
+
+emp1 = Empleado("david","silva","49028333s","c/falsa",24,"a@a.com",4000)
+emp2 = Empleado("antonio","silva","49028332s","c/falsa",26,"a@a.com",4000)
+emp3 = Empleado("pedro","silva","49028331s","c/falsa",28,"a@a.com",4000)
