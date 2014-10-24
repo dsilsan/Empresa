@@ -1,6 +1,5 @@
 __author__ = 'David'
 
-from mockito import *
 
 class Empleado():
     def __init__(self, nombre, apellidos, dni, direccion, edad, email, salario):
