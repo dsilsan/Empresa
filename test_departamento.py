@@ -6,7 +6,14 @@ __author__ = 'David'
 
 
 class TestDepartamento(TestCase):
+    """
+    Clase TestDepartamento
+    """
     def test_get_salario_total(self):
+        """
+        test realizados mediante mocks sobre el metodo get_salario_total()
+        :return:
+        """
         res = Departamento("Informatica", 1)
         # Generate a mock from a class
         emp1 = mock(Empleado)
@@ -23,6 +30,10 @@ class TestDepartamento(TestCase):
         self.assertNotEqual(res, 12000)
 
     def test_get_salario_total_mensual(self):
+        """
+        test realizados mediante mocks sobre la clase get_salario_total_mensual()
+        :return:
+        """
         res = Departamento("Informatica", 1)
         # Generate a mock from a class
         emp1 = mock(Empleado)
