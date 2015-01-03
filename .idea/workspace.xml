@@ -2,16 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3a1e408a-2a8c-4af3-b896-5f4d498fff8d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/build/.doctrees/manualUsuario.doctree" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Empleado.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Empresa.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/build/manualUsuario.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/source/manualUsuario.rst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/build/_sources/manualUsuario.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sonar/sonar-project.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/test_departamento.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/.coverage" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/build/.doctrees/Departamento.doctree" afterPath="$PROJECT_DIR$/doc/build/.doctrees/Departamento.doctree" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/build/.doctrees/Empleado.doctree" afterPath="$PROJECT_DIR$/doc/build/.doctrees/Empleado.doctree" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/build/.doctrees/Empresa.doctree" afterPath="$PROJECT_DIR$/doc/build/.doctrees/Empresa.doctree" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/build/.doctrees/Pruebas.doctree" afterPath="$PROJECT_DIR$/doc/build/.doctrees/Pruebas.doctree" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/build/.doctrees/environment.pickle" afterPath="$PROJECT_DIR$/doc/build/.doctrees/environment.pickle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/build/.doctrees/index.doctree" afterPath="$PROJECT_DIR$/doc/build/.doctrees/index.doctree" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/build/objects.inv" afterPath="$PROJECT_DIR$/doc/build/objects.inv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/build/Departamento.html" afterPath="$PROJECT_DIR$/doc/build/Departamento.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Departamento.py" afterPath="$PROJECT_DIR$/src/Departamento.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/source/Departamento.rst" afterPath="$PROJECT_DIR$/doc/source/Departamento.rst" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/build/Empleado.html" afterPath="$PROJECT_DIR$/doc/build/Empleado.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Empleado.py" afterPath="$PROJECT_DIR$/src/Empleado.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/source/Empleado.rst" afterPath="$PROJECT_DIR$/doc/source/Empleado.rst" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/build/Empresa.html" afterPath="$PROJECT_DIR$/doc/build/Empresa.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Empresa.py" afterPath="$PROJECT_DIR$/src/Empresa.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/source/Empresa.rst" afterPath="$PROJECT_DIR$/doc/source/Empresa.rst" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/build/Pruebas.html" afterPath="$PROJECT_DIR$/doc/build/Pruebas.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/build/genindex.html" afterPath="$PROJECT_DIR$/doc/build/genindex.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/build/index.html" afterPath="$PROJECT_DIR$/doc/build/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/source/index.rst" afterPath="$PROJECT_DIR$/doc/source/index.rst" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/build/_sources/index.txt" afterPath="$PROJECT_DIR$/doc/build/_sources/index.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/build/searchindex.js" afterPath="$PROJECT_DIR$/doc/build/searchindex.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tests/test_departamento.py" afterPath="$PROJECT_DIR$/tests/test_departamento.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="empresa.iws" />
@@ -325,7 +341,11 @@
       <created>1420283936349</created>
       <updated>1420283936349</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="epd6">
+      <created>1420284058220</created>
+      <updated>1420284058220</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">

@@ -15,3 +15,6 @@ class Empresa():
         self.cif = cif
         self.rs = razon_social
         self.lDepartamentos = []
+
+    def nuevoDept(self, dep):
+        self.lDepartamentos.append(dep)
