@@ -14,6 +14,8 @@ Bienvenido a la documentacion del proyecto empresa!
     Empresa
     Empleado
     Pruebas
+    manualUsuario
+
 
 Indice
 ======
